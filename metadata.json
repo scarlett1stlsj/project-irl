@@ -1,0 +1,7 @@
+{
+  "name": "Trip Mode",
+  "description": "Coordinate meetups when traveling without the group chat chaos. Create a trip, share a link, and lock in plans in seconds.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
